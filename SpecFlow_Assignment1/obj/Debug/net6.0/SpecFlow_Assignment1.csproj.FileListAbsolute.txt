@@ -1,0 +1,12 @@
+C:\Users\KIIT\Desktop\SpecFlowExercise\Day_1\SpecFlow_Assignment1\SpecFlow_Assignment1\bin\Debug\net6.0\SpecFlow_Assignment1.deps.json
+C:\Users\KIIT\Desktop\SpecFlowExercise\Day_1\SpecFlow_Assignment1\SpecFlow_Assignment1\bin\Debug\net6.0\SpecFlow_Assignment1.pdb
+C:\Users\KIIT\Desktop\SpecFlowExercise\Day_1\SpecFlow_Assignment1\SpecFlow_Assignment1\obj\Debug\net6.0\SpecFlow_Assignment1.csproj.AssemblyReference.cache
+C:\Users\KIIT\Desktop\SpecFlowExercise\Day_1\SpecFlow_Assignment1\SpecFlow_Assignment1\obj\Debug\net6.0\SpecFlow_Assignment1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIIT\Desktop\SpecFlowExercise\Day_1\SpecFlow_Assignment1\SpecFlow_Assignment1\obj\Debug\net6.0\SpecFlow_Assignment1.AssemblyInfoInputs.cache
+C:\Users\KIIT\Desktop\SpecFlowExercise\Day_1\SpecFlow_Assignment1\SpecFlow_Assignment1\obj\Debug\net6.0\SpecFlow_Assignment1.AssemblyInfo.cs
+C:\Users\KIIT\Desktop\SpecFlowExercise\Day_1\SpecFlow_Assignment1\SpecFlow_Assignment1\obj\Debug\net6.0\SpecFlow_Assignment1.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Desktop\SpecFlowExercise\Day_1\SpecFlow_Assignment1\SpecFlow_Assignment1\obj\Debug\net6.0\SpecFlow_Assignment1.dll
+C:\Users\KIIT\Desktop\SpecFlowExercise\Day_1\SpecFlow_Assignment1\SpecFlow_Assignment1\obj\Debug\net6.0\refint\SpecFlow_Assignment1.dll
+C:\Users\KIIT\Desktop\SpecFlowExercise\Day_1\SpecFlow_Assignment1\SpecFlow_Assignment1\obj\Debug\net6.0\SpecFlow_Assignment1.pdb
+C:\Users\KIIT\Desktop\SpecFlowExercise\Day_1\SpecFlow_Assignment1\SpecFlow_Assignment1\obj\Debug\net6.0\ref\SpecFlow_Assignment1.dll
+C:\Users\KIIT\Desktop\SpecFlowExercise\Day_1\SpecFlow_Assignment1\SpecFlow_Assignment1\obj\Debug\net6.0\SpecFlow_Assignment1.csproj.CopyComplete
